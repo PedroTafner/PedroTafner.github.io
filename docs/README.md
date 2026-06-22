@@ -13,6 +13,8 @@
 
 This is my personal portfolio, showcasing my projects, technical skills, education, and career goals as a Software Engineering student at PUC-Campinas. Designed and developed entirely by me, applying software engineering principles to a front-end project.
 
+Access in: https://pedrotafner.github.io
+
 ---
 
 ## ✨ Features
